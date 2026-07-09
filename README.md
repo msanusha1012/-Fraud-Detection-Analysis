@@ -41,5 +41,5 @@ Project Report (PDF)
 🎯 Objective
 
 To demonstrate data cleaning, exploratory data analysis (EDA), and dashboard development skills for detecting fraud patterns in banking transactions.
-Author:
-  Anusha P
+
+Author: Anusha P
